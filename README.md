@@ -63,7 +63,6 @@ When code is included, it’s either **mine** (see `my_shaders/`) or included wi
 
 ### The Drive Home (Livecoding series)
 - Starting point: https://www.youtube.com/watch?v=tdwXMtnuuXg
-- Shader ID referenced: `4djfR1`
 - What it teaches: complex scene building, iteration, creative hacks, multi-pass thinking
 - Tags: `raymarch` `multipass` `creative`
 
