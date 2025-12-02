@@ -37,6 +37,11 @@ Some attached code is mine from a long time ago (see `my_shaders/`).
 
 ## Intermediate
 
+### Ray Tracing in One Weekend
+- Link: https://raytracing.github.io/books/RayTracingInOneWeekend.html#diffusematerials/asimplediffusematerial
+- What it teaches: fundamentals + diffuse lambertian and various materials + global illumination
+- Tags: `pathtracing` `diffuse` `lambertian` `sampling` `fundamentals`
+
 ### SDF Tutorial 1: Box & Balloon
 - Link: https://www.shadertoy.com/view/Xl2XWt
 - What it teaches: SDF construction + raymarching fundamentals (clear + commented)
