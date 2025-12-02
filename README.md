@@ -47,7 +47,7 @@ When code is included, it’s either **mine** (see `my_shaders/`) or included wi
 - What it teaches: reference library of common distance functions (with demos)
 - Tags: `sdf` `reference` `geometry`
 
-### NoxWings - Raymarching Tutorial Step 00
+### NoxWings - Raymarching Tutorial
 - Link: https://noxwings.com/blog/posts/2021/09/24/step00-intro.html
 - What it teaches: structured “from zero” raymarch walkthrough
 - Tags: `raymarch` `tutorial` `walkthrough`
@@ -76,7 +76,7 @@ When code is included, it’s either **mine** (see `my_shaders/`) or included wi
 - What it teaches: dithering tricks to fight banding / improve perceived quality
 - Tags: `raymarch` `dither` `quality`
 
-### Reflective Fabric Tiles [142]
+### Reflective Fabric Tiles
 - Link: https://www.shadertoy.com/view/W3Xcz4
 - What it teaches: procedural material vibes + reflection tricks
 - Tags: `procedural` `materials` `reflection`
@@ -84,14 +84,6 @@ When code is included, it’s either **mine** (see `my_shaders/`) or included wi
 ---
 
 ## Cool Stuff / Inspiration
-
-### Shadertoy Tag: Ripple (Hot)
-- Link: https://www.shadertoy.com/results?query=tag%3Dripple&sort=hot
-- Tags: `water` `ripples` `fx`
-
-### Shadertoy Tag: Ripple Effect (Popular)
-- Link: https://www.shadertoy.com/results?filter=&query=tag%3Drippleeffect&sort=popular
-- Tags: `water` `ripples` `fx`
 
 ### Water-Ripple Effect (Multi-buffer)
 - Link: https://www.shadertoy.com/view/fsGcWz
