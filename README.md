@@ -2,7 +2,7 @@
 A curated Shadertoy/GLSL shaders collection (that I find interested/helpful), with short notes. Organized by difficulty. Includes a few of my own teaching demos and old water ripple experiments.
 
 Most entries are **links only** (no code copied).  
-When code is included, it’s either **mine** (see `my_shaders/`) or included with explicit permission/license + attribution.
+Some attached code is mine from a long time ago (see `my_shaders/`).
 
 ---
 
