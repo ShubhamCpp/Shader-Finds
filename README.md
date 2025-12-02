@@ -145,7 +145,7 @@ Some attached code is mine from a long time ago (see `my_shaders/`).
 ## My shaders
 
 See [`my_shaders/`](my_shaders/) for:
-- teaching demos (clean, small shaders)
+- teaching demos I prepared for some friends
 - old water ripple experiments
 
 ---
