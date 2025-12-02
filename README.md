@@ -23,7 +23,7 @@ When code is included, it’s either **mine** (see `my_shaders/`) or included wi
 
 ## Beginner
 
-### The Art of Code — Shadertoy Tutorial Playlist
+### The Art of Code - Shadertoy Tutorial Playlist
 - Link: https://www.youtube.com/playlist?list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5
 - What it teaches: 2D basics, signed distance intuition, simple patterns, compositing
 - Tags: `2d` `basics` `sdf` `uv`
@@ -42,12 +42,12 @@ When code is included, it’s either **mine** (see `my_shaders/`) or included wi
 - What it teaches: SDF construction + raymarching fundamentals (clear + commented)
 - Tags: `sdf` `raymarch` `lighting`
 
-### Inigo Quilez — 2D Distance Functions
+### Inigo Quilez - 2D Distance Functions
 - Link: https://iquilezles.org/articles/distfunctions2d/
 - What it teaches: reference library of common distance functions (with demos)
 - Tags: `sdf` `reference` `geometry`
 
-### NoxWings — Raymarching Tutorial Step 00
+### NoxWings - Raymarching Tutorial Step 00
 - Link: https://noxwings.com/blog/posts/2021/09/24/step00-intro.html
 - What it teaches: structured “from zero” raymarch walkthrough
 - Tags: `raymarch` `tutorial` `walkthrough`
