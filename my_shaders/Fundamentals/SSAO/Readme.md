@@ -1,4 +1,4 @@
-# SSAO (Screen-Space Ambient Occlusion) — Shadertoy-style snippets
+# SSAO (Screen-Space Ambient Occlusion) - Shadertoy-style snippets
 
 This folder contains a small, self-contained SSAO study setup in Shadertoy-style GLSL:
 - **Buffer A** builds a tiny GBuffer (SDF scene raymarch) and outputs **view-space-ish normals** + **normalized depth**.
